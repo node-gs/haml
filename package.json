@@ -1,0 +1,13 @@
+{
+  "name": "outsideenvy.com.au",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "haml": "haml index.haml index.html"
+  },
+  "author": "",
+  "license": "ISC"
+}
